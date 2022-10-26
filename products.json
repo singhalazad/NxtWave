@@ -1,0 +1,62 @@
+[
+    {
+        "name" : "Sandisk product name1",
+        "price" : "45.89",
+        "description" : "Sandisk product description",
+        "ratings" : "4.5",
+        "images" : [{
+            "public_id" : "NZ4q4QF/star.jpg",
+            "url" : "https://i.ibb.co/NZ4q4QF/star.jpg"
+        }],
+        "category" : "Electronics",
+        "seller" : "Ebay",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews" :[]
+    },
+    {
+        "name" : "Sandisk product name2",
+        "price" : "45.89",
+        "description" : "Sandisk product description",
+        "ratings" : "4.5",
+        "images" : [{
+            "public_id" : "NZ4q4QF/star.jpg",
+            "url" : "https://i.ibb.co/NZ4q4QF/star.jpg"
+        }],
+        "category" : "Electronics",
+        "seller" : "Ebay",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews" :[]
+    },
+    {
+        "name" : "Sandisk product name3",
+        "price" : "45.89",
+        "description" : "Sandisk product description",
+        "ratings" : "4.5",
+        "images" : [{
+            "public_id" : "NZ4q4QF/star.jpg",
+            "url" : "https://i.ibb.co/NZ4q4QF/star.jpg"
+        }],
+        "category" : "Electronics",
+        "seller" : "Ebay",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews" :[]
+    },
+    {
+        "name" : "Sandisk product name4",
+        "price" : "45.89",
+        "description" : "Sandisk product description",
+        "ratings" : "4.5",
+        "images" : [{
+            "public_id" : "NZ4q4QF/star.jpg",
+            "url" : "https://i.ibb.co/NZ4q4QF/star.jpg"
+        }],
+        "category" : "Electronics",
+        "seller" : "Ebay",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews" :[]
+    }
+]
